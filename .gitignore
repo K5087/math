@@ -1,0 +1,18 @@
+*
+
+# github file
+!READNE.md
+!LICENSE
+!.gitignore
+
+# include file
+!include/
+!include/**
+
+# test
+!test/
+!test/**
+
+# cmake file
+!CMakeLists.txt
+!CMakePresets.json
